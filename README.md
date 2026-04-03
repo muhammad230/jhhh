@@ -124,6 +124,9 @@ Frameworks and Libraries
 • CSS Modules
 
 25.State Management Libraries
+
+React
+
 • Redux
 • MobX
 
