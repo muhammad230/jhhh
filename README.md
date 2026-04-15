@@ -1,7 +1,6 @@
 
 
-# for more contreution
-# guok;
+# this is react important topics:
 1.Components
 • Functional Components
 • Class Components
