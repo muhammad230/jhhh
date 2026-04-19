@@ -1,6 +1,7 @@
 
 
 # this is react important topics:
+Explore it
 1.Components
 • Functional Components
 • Class Components
